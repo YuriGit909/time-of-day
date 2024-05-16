@@ -10,7 +10,7 @@ function exibirHora() {
     
     exibir.innerHTML = `Agora são <strong>${horaCompleta}</strong>.`
 
-    if (horas < 12) {
+    if (horas >= 0 && horas < 12) {
         exibir.innerHTML += ` Bom Dia!`
         window.document.body.style.backgroundColor = 'lightblue'
         imagem.innerHTML = '<img src="../images/dia.png" alt="Imagem de um dia ensolarado">'
