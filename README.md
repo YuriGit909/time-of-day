@@ -1,4 +1,4 @@
-Relógio de atualização automática com mudança de imagem e cor de fundo a depender do turno do dia.
+Relógio de atualização automática com mudança de imagem e cor de fundo a depender do turno do dia (manhã, tarde ou noite).
 
 OBS: A hora exibida no site se baseia no horário da sua máquina local, ou seja, do relógio do seu dispositivo.
 
