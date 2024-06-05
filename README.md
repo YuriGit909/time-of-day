@@ -4,5 +4,5 @@ OBS: A hora exibida no site se baseia no horário da sua máquina local, ou seja
 
 Link: https://yourtimenow.netlify.app/ 
 
-![image](https://github.com/YuriGit909/time-of-day/assets/127057738/c1cd7cba-2c11-453f-8f3a-4782d3111289)
-![image](https://github.com/YuriGit909/time-of-day/assets/127057738/51a00576-e249-41ec-9983-03f075c9600d)
+![image](https://github.com/YuriGit909/time-of-day/assets/127057738/71a60eb4-bc3e-4690-a3d5-6fce397c89e8)
+![image](https://github.com/YuriGit909/time-of-day/assets/127057738/f4dabbf8-dc0f-4de1-863a-d879ec8bc1ad)
